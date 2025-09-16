@@ -1,0 +1,29 @@
+{
+  "obsidian-hider:toggle-tab-containers": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "webviewer:search": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}
