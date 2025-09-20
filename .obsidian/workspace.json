@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1aabe8572568630f",
+        "id": "80bfedd68e275473",
         "type": "tabs",
         "children": [
           {
-            "id": "9b404a5d7cedcbfd",
+            "id": "7a7d97f2b8dcf403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENSO/1. Introducción.md",
+                "file": "COMDIS/1. Introducción.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,31 +24,31 @@
         ]
       },
       {
-        "id": "b0b451ab22745a98",
+        "id": "2a4d4e078cd13191",
         "type": "tabs",
         "children": [
           {
-            "id": "d13f76edb14ef529",
+            "id": "5cd731ca1fb043ad",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ENSO/bibliografía/Ingenieria del Software - Parte I.pdf"
+                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Ingenieria del Software - Parte I"
+              "title": "ApuntesAndrea"
             }
           },
           {
-            "id": "9a96eaace2e21d16",
+            "id": "0837963f39c39488",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ENSO/bibliografía/ENSO_DENSO.pdf"
+                "file": "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ENSO_DENSO"
+              "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
             }
           }
         ]
@@ -201,10 +201,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b404a5d7cedcbfd",
+  "active": "5cd731ca1fb043ad",
   "lastOpenFiles": [
-    "Sin título.md",
+    "COMDIS/1. Introducción.md",
+    "COMDIS/bibliografía/ApuntesAndrea.pdf",
+    "COMDIS/imagenes/Pasted image 20250920212841.png",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
+    "COMDIS/imagenes/Pasted image 20250920212328.png",
+    "COMDIS/imagenes/Pasted image 20250920212044.png",
+    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
     "ENSO/1. Introducción.md",
+    "Sin título.md",
     "ENSO/bibliografía/Ingenieria del Software - Parte I.pdf",
     "ENSO/bibliografía/ENSO_DENSO.pdf",
     "ENSO/imagenes/Pasted image 20250920191706.png",
@@ -222,14 +229,7 @@
     "ASR/1. Introducción.md",
     "ASR/imagenes/Pasted image 20250918124328.png",
     "ASR/imagenes/Pasted image 20250918124159.png",
-    "ASR/imagenes/Pasted image 20250918124112.png",
-    "ASR/imagenes/Pasted image 20250918115625.png",
-    "ASR/imagenes/Pasted image 20250918115548.png",
-    "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "IA/1. Introducción.md",
-    "COMDIS/1. Introducción.md",
-    "COMDIS/bibliografía/ApuntesAndrea.pdf",
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "README.md"
   ]
 }
