@@ -4,38 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c8e0e6f0c6452a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c6382a18c5c06b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TALF/2. Autómatas finitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Autómatas finitos"
-            }
-          },
-          {
-            "id": "cb02ba982bba9198",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TALF/bibliografía/TALF_ApuntesCompletos.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TALF_ApuntesCompletos"
-            }
-          }
-        ]
-      },
-      {
         "id": "1e74688a6047975e",
         "type": "tabs",
         "children": [
@@ -43,28 +11,83 @@
             "id": "8f82a03c92c8127e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TALF/bibliografía/TALF_ApuntesCompletos.pdf"
+                "file": "COMDIS/2. El API de Sockets.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TALF_ApuntesCompletos"
+              "icon": "lucide-file",
+              "title": "2. El API de Sockets"
             }
           },
           {
-            "id": "147350c5075303cb",
+            "id": "4ddbb290b4b8ce26",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TALF/bibliografía/TALF_USC_2023_2024.pdf"
+                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "TALF_USC_2023_2024"
+              "title": "ApuntesAndrea"
+            }
+          },
+          {
+            "id": "54b12e46b27b124b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "0cb9064533e936e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a18e55df3c6534a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ApuntesAndrea"
+            }
+          },
+          {
+            "id": "cce0dbf358c52d27",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/02-El API de Sockets.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "02-El API de Sockets"
+            }
+          },
+          {
+            "id": "85d4aefbe1bd5740",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +110,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -204,45 +227,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "omnisearch:Omnisearch": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "6c6382a18c5c06b3",
+  "active": "1a18e55df3c6534a",
   "lastOpenFiles": [
-    "TALF/bibliografía/TALF_USC_2023_2024.pdf",
-    "TALF/2. Autómatas finitos.md",
-    "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
-    "TALF/imagenes/Pasted image 20250921132115.png",
-    "TALF/imagenes/Pasted image 20250921132029.png",
-    "TALF/imagenes/Pasted image 20250921132011.png",
-    "TALF/imagenes/Pasted image 20250921131951.png",
-    "TALF/imagenes/Pasted image 20250921131942.png",
-    "TALF/imagenes/Pasted image 20250921131820.png",
-    "TALF/imagenes/Pasted image 20250921131735.png",
-    "TALF/imagenes/Pasted image 20250921131548.png",
-    "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
-    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
-    "COMDIS/1. Introducción.md",
-    "COMDIS/imagenes/Pasted image 20250921122510.png",
+    "COMDIS/2. El API de Sockets.md",
+    "COMDIS/imagenes/Pasted image 20250923132420.png",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
-    "COMDIS/imagenes/Pasted image 20250921122236.png",
-    "ENSO/1. Introducción.md",
-    "Sin título.md",
-    "ENSO/bibliografía/Ingenieria del Software - Parte I.pdf",
-    "ENSO/bibliografía/ENSO_DENSO.pdf",
-    "TALF/1. Introducción.md",
-    "TALF/bibliografía/1-TALF-Introducción.pdf",
-    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
-    "ASR/1. Introducción.md",
+    "COMDIS/bibliografía/02-El API de Sockets.pdf",
+    "COMDIS/imagenes/Pasted image 20250923132107.png",
+    "COMDIS/imagenes/Pasted image 20250923132053.png",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
+    "COMDIS/imagenes/Pasted image 20250923132032.png",
+    "COMDIS/imagenes/Pasted image 20250923130610.png",
+    "COMDIS/imagenes/Pasted image 20250923130556.png",
+    "COMDIS/imagenes/Pasted image 20250923130531.png",
+    "COMDIS/imagenes/Pasted image 20250923130517.png",
+    "COMDIS/imagenes/Pasted image 20250923130435.png",
+    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
+    "COMDIS/bibliografía/BItacoras.pdf",
+    "COMDIS/imagenes/Pasted image 20250923130229.png",
+    "COMDIS/1. Introducción.md",
+    "IA/bibliografía/IA_apuntesCompletos.pdf",
+    "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
+    "IA/2. Búsqueda en espacio de estados.md",
+    "IA/bibliografía/bitacoras_IA.pdf",
     "IA/1. Introducción.md",
+    "TALF/bibliografía/TALF_USC_2023_2024.pdf",
+    "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
+    "TALF/2. Autómatas finitos.md",
+    "ENSO/1. Introducción.md",
+    "TALF/1. Introducción.md",
+    "ASR/1. Introducción.md",
     "README.md"
   ]
 }
