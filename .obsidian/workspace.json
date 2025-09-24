@@ -20,72 +20,6 @@
               "icon": "lucide-file",
               "title": "2. El API de Sockets"
             }
-          },
-          {
-            "id": "4ddbb290b4b8ce26",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ApuntesAndrea"
-            }
-          },
-          {
-            "id": "54b12e46b27b124b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0cb9064533e936e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a18e55df3c6534a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ApuntesAndrea"
-            }
-          },
-          {
-            "id": "cce0dbf358c52d27",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMDIS/bibliografía/02-El API de Sockets.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "02-El API de Sockets"
-            }
-          },
-          {
-            "id": "85d4aefbe1bd5740",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
-            }
           }
         ]
       }
@@ -227,33 +161,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "1a18e55df3c6534a",
+  "active": "8f82a03c92c8127e",
   "lastOpenFiles": [
-    "COMDIS/2. El API de Sockets.md",
-    "COMDIS/imagenes/Pasted image 20250923132420.png",
-    "COMDIS/bibliografía/ApuntesAndrea.pdf",
+    "COMDIS/bibliografía/Threads en Java.pdf",
+    "COMDIS/imagenes/Pasted image 20250924162939.png",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
+    "COMDIS/bibliografía/ApuntesAndrea.pdf",
+    "COMDIS/2. El API de Sockets.md",
+    "COMDIS/imagenes/Pasted image 20250924162503.png",
+    "COMDIS/imagenes/Pasted image 20250923132420.png",
     "COMDIS/imagenes/Pasted image 20250923132107.png",
     "COMDIS/imagenes/Pasted image 20250923132053.png",
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/imagenes/Pasted image 20250923132032.png",
     "COMDIS/imagenes/Pasted image 20250923130610.png",
     "COMDIS/imagenes/Pasted image 20250923130556.png",
     "COMDIS/imagenes/Pasted image 20250923130531.png",
     "COMDIS/imagenes/Pasted image 20250923130517.png",
-    "COMDIS/imagenes/Pasted image 20250923130435.png",
     "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
-    "COMDIS/imagenes/Pasted image 20250923130229.png",
     "COMDIS/1. Introducción.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
