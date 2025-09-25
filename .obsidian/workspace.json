@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -173,12 +172,15 @@
   },
   "active": "8f82a03c92c8127e",
   "lastOpenFiles": [
+    "COMDIS/1. Introducción.md",
+    "COMDIS/2. El API de Sockets.md",
+    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
+    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "COMDIS/bibliografía/Threads en Java.pdf",
     "COMDIS/imagenes/Pasted image 20250924162939.png",
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
-    "COMDIS/2. El API de Sockets.md",
     "COMDIS/imagenes/Pasted image 20250924162503.png",
     "COMDIS/imagenes/Pasted image 20250923132420.png",
     "COMDIS/imagenes/Pasted image 20250923132107.png",
@@ -188,16 +190,12 @@
     "COMDIS/imagenes/Pasted image 20250923130556.png",
     "COMDIS/imagenes/Pasted image 20250923130531.png",
     "COMDIS/imagenes/Pasted image 20250923130517.png",
-    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
-    "COMDIS/1. Introducción.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/bitacoras_IA.pdf",
     "IA/1. Introducción.md",
-    "TALF/bibliografía/TALF_USC_2023_2024.pdf",
-    "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
     "TALF/2. Autómatas finitos.md",
     "ENSO/1. Introducción.md",
     "TALF/1. Introducción.md",
