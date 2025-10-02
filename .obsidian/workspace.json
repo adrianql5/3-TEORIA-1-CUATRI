@@ -4,21 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "1e74688a6047975e",
+        "id": "36d229d42cd30c16",
         "type": "tabs",
         "children": [
           {
-            "id": "8f82a03c92c8127e",
+            "id": "cf5edb80a8dc3243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMDIS/2. El API de Sockets.md",
+                "file": "COMDIS/3. Objetos Distribuidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. El API de Sockets"
+              "title": "3. Objetos Distribuidos"
+            }
+          },
+          {
+            "id": "c9a84eb0a22ffdbe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ApuntesAndrea"
+            }
+          },
+          {
+            "id": "2710d54964395911",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9a6674bd4aeac591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561e010a7465cfb6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ApuntesAndrea"
             }
           }
         ]
@@ -78,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -170,36 +213,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f82a03c92c8127e",
+  "active": "cf5edb80a8dc3243",
   "lastOpenFiles": [
-    "COMDIS/1. Introducción.md",
-    "COMDIS/2. El API de Sockets.md",
-    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
-    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
-    "COMDIS/bibliografía/Threads en Java.pdf",
-    "COMDIS/imagenes/Pasted image 20250924162939.png",
-    "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
-    "COMDIS/imagenes/Pasted image 20250924162503.png",
-    "COMDIS/imagenes/Pasted image 20250923132420.png",
-    "COMDIS/imagenes/Pasted image 20250923132107.png",
-    "COMDIS/imagenes/Pasted image 20250923132053.png",
-    "COMDIS/imagenes/Pasted image 20250923132032.png",
-    "COMDIS/imagenes/Pasted image 20250923130610.png",
-    "COMDIS/imagenes/Pasted image 20250923130556.png",
-    "COMDIS/imagenes/Pasted image 20250923130531.png",
-    "COMDIS/imagenes/Pasted image 20250923130517.png",
+    "COMDIS/3. Objetos Distribuidos.md",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
+    "COMDIS/bibliografía/02-El API de Sockets.pdf",
+    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
+    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
+    "ASR/2. Programación de Scripts.md",
+    "ASR/imagenes/Pasted image 20251001112408.png",
+    "ASR/imagenes/Pasted image 20250930112423.png",
+    "ASR/imagenes/Pasted image 20250930111602.png",
+    "ASR/imagenes/Pasted image 20250930111542.png",
+    "ASR/imagenes/Pasted image 20250930111343.png",
+    "ASR/imagenes/Pasted image 20250930111321.png",
+    "ASR/imagenes/Pasted image 20250930111057.png",
+    "ASR/imagenes/Pasted image 20250930110755.png",
+    "ASR/imagenes/Pasted image 20250930105058.png",
+    "ASR/imagenes/Pasted image 20250930105032.png",
+    "ASR/1. Introducción.md",
+    "COMDIS/2. El API de Sockets.md",
+    "TALF/2. Autómatas finitos.md",
+    "IA/2. Búsqueda en espacio de estados.md",
+    "IA/1. Introducción.md",
+    "COMDIS/1. Introducción.md",
+    "COMDIS/bibliografía/Threads en Java.pdf",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
-    "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/bitacoras_IA.pdf",
-    "IA/1. Introducción.md",
-    "TALF/2. Autómatas finitos.md",
     "ENSO/1. Introducción.md",
     "TALF/1. Introducción.md",
-    "ASR/1. Introducción.md",
     "README.md"
   ]
 }

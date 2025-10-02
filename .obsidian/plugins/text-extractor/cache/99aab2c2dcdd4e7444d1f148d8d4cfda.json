@@ -1,0 +1,1 @@
+{"path":"ASR/imagenes/Pasted image 20250930111057.png","text":"$ a=b $ sed -r \"s/x/$a/g\" fichero.txt — 5 $ sed -1 ’s/x/$a/g’ fichero.txt — $a $ sed -r \"s/x/ date’/g\" fichero.txt —mié ago 3 09:15:30 $ sed -r ’s/x/ date’/g’ fichero.txt — “date’","libVersion":"0.5.0","langs":"eng"}

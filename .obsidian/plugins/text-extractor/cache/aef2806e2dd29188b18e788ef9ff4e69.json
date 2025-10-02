@@ -1,0 +1,1 @@
+{"path":"ASR/imagenes/Pasted image 20250930102830.png","text":"#1/bin/bash # FILE: Linelist # Usar: Linelist filein fileout # Lee el fichero pasado en filein y # 1o salva en fileout con las lineas numeradas count=0 while read BUFFER do count=$((++count)) echo \"$count $BUFFER\" » $2 done < $1","libVersion":"0.5.0","langs":"eng"}

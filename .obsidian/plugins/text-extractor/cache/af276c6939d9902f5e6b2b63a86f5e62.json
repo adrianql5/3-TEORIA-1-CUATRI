@@ -1,0 +1,1 @@
+{"path":"ASR/imagenes/Pasted image 20250930102735.png","text":"#1/bin/bash echo -n \"Introduce algo: \" read x echo \"Has escrito $x\" echo -n \"Escribe 2 palabras: \" read x y echo \"Primera palabra $x; Segunda palabra $y\"","libVersion":"0.5.0","langs":"eng"}

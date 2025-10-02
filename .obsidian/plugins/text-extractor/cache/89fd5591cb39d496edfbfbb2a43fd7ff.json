@@ -1,0 +1,1 @@
+{"path":"ASR/imagenes/Pasted image 20250930105006.png","text":"# Muestra un fichero pero no las lineas de mas # de 80 caracteres while read buf do cuenta=\"echo $buf | uc -c* if [[ $cuenta -gt 80 1] ‘then continue £i echo $buf done < $1","libVersion":"0.5.0","langs":"eng"}

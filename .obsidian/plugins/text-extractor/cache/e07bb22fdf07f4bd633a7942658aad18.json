@@ -1,0 +1,1 @@
+{"path":"ASR/imagenes/Pasted image 20250930103951.png","text":"$ test -f /bin/ls -a -f /bin/11 ; echo $? --> 1 $ [ ! -w /etc/passud ] ; echo $7 --> 0 $ [ $$ -gt 0 -a \\( $$ -1t 5000 -0 -w file \\) ]","libVersion":"0.5.0","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"ASR/imagenes/Pasted image 20250930104201.png","text":"#!/bin/bash echo -n \"Respuesta:\" read RESPUESTA case $RESPUESTA in Sx | s%) RESPUESTA=\"SI\";; Nx | nx) RESPUESTA=\"NO \";; *) RESPUESTA=\"PUEDE\"; ; esac echo $RESPUESTA","libVersion":"0.5.0","langs":"eng"}
