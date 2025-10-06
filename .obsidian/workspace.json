@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMDIS/3. Objetos Distribuidos.md",
-                "mode": "source",
+                "file": "COMDIS/1. Introducción.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Objetos Distribuidos"
+              "title": "1. Introducción"
             }
           },
           {
@@ -43,24 +43,6 @@
               },
               "icon": "lucide-file-text",
               "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "84013629dc18a6f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc87ab29139de802",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ApuntesAndrea"
             }
           }
         ]
@@ -215,8 +197,10 @@
   },
   "active": "cf5edb80a8dc3243",
   "lastOpenFiles": [
-    "COMDIS/bibliografía/ApuntesAndrea.pdf",
+    "COMDIS/2. El API de Sockets.md",
     "COMDIS/3. Objetos Distribuidos.md",
+    "COMDIS/imagenes/Pasted image 20251006163259.png",
+    "COMDIS/bibliografía/ApuntesAndrea.pdf",
     "COMDIS/imagenes/Pasted image 20251006115034.png",
     "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/imagenes/Pasted image 20251006114104.png",
@@ -231,14 +215,12 @@
     "COMDIS/imagenes/Pasted image 20251003111303.png",
     "COMDIS/imagenes/Pasted image 20251003110907.png",
     "COMDIS/imagenes/Pasted image 20251003110854.png",
-    "COMDIS/imagenes/Pasted image 20251003110839.png",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
     "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/2. Programación de Scripts.md",
     "ASR/1. Introducción.md",
-    "COMDIS/2. El API de Sockets.md",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/1. Introducción.md",
     "COMDIS/1. Introducción.md",
