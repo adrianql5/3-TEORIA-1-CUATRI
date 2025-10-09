@@ -6,7 +6,6 @@ Investigar sobre agentes de IA
 Crear Workflows
 
 # Teoría
-- Apuntes Tema 2-3 TALF
 - Apuntes Tema 1-2-3 IA
 - Apuntes Tema 3 ASR
 - Apuntes Tema 4 comdis
