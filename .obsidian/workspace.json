@@ -11,14 +11,12 @@
             "id": "e14ac4604cd1916a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "TO-DO.md",
-                "mode": "source",
-                "source": false
+                "file": "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf"
               },
-              "icon": "lucide-file",
-              "title": "TO-DO"
+              "icon": "lucide-file-text",
+              "title": "Introducción á IA e perspectiva histórica"
             }
           }
         ]
@@ -172,6 +170,10 @@
   },
   "active": "e14ac4604cd1916a",
   "lastOpenFiles": [
+    "IA/bibliografía/IA_apuntesCompletos.pdf",
+    "IA/bibliografía/bitacoras_IA.pdf",
+    "IA/1. Introducción.md",
+    "TO-DO.md",
     "TALF/2. Autómatas finitos.md",
     "TALF/Boletín 1.pdf",
     "TALF/bibliografía/TALF_USC_2023_2024.pdf",
@@ -181,7 +183,6 @@
     "TALF/Casos Difíciles.pdf",
     "TALF/1. Introducción.md",
     "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
-    "TO-DO.md",
     "README.md",
     "TALF/Examenes",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
@@ -189,8 +190,6 @@
     "COMDIS/2. El API de Sockets.md",
     "COMDIS/1. Introducción.md",
     "COMDIS/bibliografía/BItacoras.pdf",
-    "IA/bibliografía/bitacoras_IA.pdf",
-    "IA/bibliografía/IA_apuntesCompletos.pdf",
     "COMDIS/imagenes/Pasted image 20251006163259.png",
     "COMDIS/imagenes/Pasted image 20251006115034.png",
     "COMDIS/imagenes/Pasted image 20251006114104.png",
@@ -202,7 +201,6 @@
     "ASR/2. Programación de Scripts.md",
     "ASR/1. Introducción.md",
     "IA/2. Búsqueda en espacio de estados.md",
-    "IA/1. Introducción.md",
     "ENSO/1. Introducción.md"
   ]
 }
