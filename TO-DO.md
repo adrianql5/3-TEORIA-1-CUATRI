@@ -1,6 +1,9 @@
 # Mamonadas
+Modificar Readme github
+
 Script atajos spotify
 Script para jflap, vscode, pycharm, clion, ollama.
+
 Aprender usos de la IA local con ollama
 Investigar sobre agentes de IA
 Crear Workflows
