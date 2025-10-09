@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fef35a4f397f5e3d",
+        "id": "37da4a75dabeac73",
         "type": "tabs",
         "children": [
           {
-            "id": "e14ac4604cd1916a",
+            "id": "d5789b7ee6ede667",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "37da4a75dabeac73",
+        "id": "cd6a707ee2f9ea00",
         "type": "tabs",
         "children": [
           {
-            "id": "d5789b7ee6ede667",
+            "id": "6009103aaddbce7a",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -189,14 +188,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5789b7ee6ede667",
+  "active": "6009103aaddbce7a",
   "lastOpenFiles": [
-    "IA/bibliografía/bitacoras_IA.pdf",
-    "IA/1. Introducción.md",
-    "TO-DO.md",
+    "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
-    "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
+    "IA/1. Introducción.md",
+    "IA/bibliografía/bitacoras_IA.pdf",
+    "TO-DO.md",
     "TALF/2. Autómatas finitos.md",
     "TALF/Boletín 1.pdf",
     "TALF/bibliografía/TALF_USC_2023_2024.pdf",
