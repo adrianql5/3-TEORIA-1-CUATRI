@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2. Búsqueda en espacio de estados"
             }
+          },
+          {
+            "id": "6d330cbd74995427",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cd6a707ee2f9ea00",
@@ -96,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -189,10 +199,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5789b7ee6ede667",
+  "active": "6d330cbd74995427",
   "lastOpenFiles": [
-    "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/2. Búsqueda en espacio de estados.md",
+    "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/1. Introducción.md",
     "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "IA/bibliografía/bitacoras_IA.pdf",
