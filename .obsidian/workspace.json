@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "37da4a75dabeac73",
+        "id": "ac20fa71ea2793ff",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0875d1b9861477",
+            "id": "8f27bc3df8933dcf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TALF/Examenes/Test1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Test1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cd6a707ee2f9ea00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1df8eebbc0bc49c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TO-DO"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -189,27 +167,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1df8eebbc0bc49c9",
+  "active": "8f27bc3df8933dcf",
   "lastOpenFiles": [
     "TALF/Examenes/Test1.pdf",
+    "TALF/Casos Difíciles.pdf",
+    "TALF/Boletín 1.pdf",
+    "TO-DO.md",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/1. Introducción.md",
     "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "IA/bibliografía/bitacoras_IA.pdf",
-    "TO-DO.md",
     "TALF/2. Autómatas finitos.md",
-    "TALF/Boletín 1.pdf",
     "TALF/bibliografía/TALF_USC_2023_2024.pdf",
     "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
     "TALF/imagenes/Pasted image 20251009161852.png",
     "TALF/imagenes/Pasted image 20251009161639.png",
-    "TALF/Casos Difíciles.pdf",
     "TALF/1. Introducción.md",
     "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
     "README.md",
     "TALF/Examenes",
-    "COMDIS/bibliografía/ApuntesAndrea.pdf",
     "COMDIS/3. Objetos Distribuidos.md",
     "COMDIS/2. El API de Sockets.md",
     "COMDIS/1. Introducción.md",
