@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "2. Búsqueda en espacio de estados"
             }
-          },
-          {
-            "id": "6d330cbd74995427",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cd6a707ee2f9ea00",
@@ -199,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d330cbd74995427",
+  "active": "de42b9665e5b4146",
   "lastOpenFiles": [
+    "TALF/Examenes/Test1.pdf",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/1. Introducción.md",
