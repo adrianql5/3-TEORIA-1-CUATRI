@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac20fa71ea2793ff",
+        "id": "e0d29a4e6109a8e9",
         "type": "tabs",
         "children": [
           {
-            "id": "8f27bc3df8933dcf",
+            "id": "59cfa49180420a3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TALF/Casos Difíciles.pdf"
+                "file": "TO-DO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Casos Difíciles"
+              "icon": "lucide-file",
+              "title": "TO-DO"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -169,12 +170,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f27bc3df8933dcf",
+  "active": "59cfa49180420a3a",
   "lastOpenFiles": [
+    "TALF/Casos Difíciles.pdf",
     "TALF/Boletín 1.pdf",
     "TALF/Examenes/Test1.pdf",
     "TO-DO.md",
-    "TALF/Casos Difíciles.pdf",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/1. Introducción.md",
