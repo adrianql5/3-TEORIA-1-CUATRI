@@ -26,18 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6009103aaddbce7a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "IA/bibliografía/IA_apuntesCompletos.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "IA_apuntesCompletos"
-            }
-          },
-          {
             "id": "1df8eebbc0bc49c9",
             "type": "leaf",
             "state": {
@@ -51,8 +39,7 @@
               "title": "TO-DO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f454003e97f389fb",
