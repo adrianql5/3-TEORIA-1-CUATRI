@@ -1,6 +1,4 @@
 # Mamonadas
-Modificar Readme github
-
 Script atajos spotify
 Script para jflap, vscode, pycharm, clion, ollama.
 
