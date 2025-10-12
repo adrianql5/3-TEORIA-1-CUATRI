@@ -77,8 +77,7 @@
               "title": "TO-DO"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -227,19 +227,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71a0c329a2369f0e",
+  "active": "59cfa49180420a3a",
   "lastOpenFiles": [
+    "COMDIS/bibliografía/ApuntesAndrea.pdf",
     "COMDIS/4. RMI Avanzado.md",
+    "COMDIS/imagenes/Pasted image 20251012155647.png",
+    "COMDIS/imagenes/Pasted image 20251012155609.png",
+    "COMDIS/imagenes/Pasted image 20251012155559.png",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
+    "COMDIS/imagenes/Pasted image 20251012155307.png",
+    "TO-DO.md",
+    "COMDIS/imagenes/Pasted image 20251012155211.png",
+    "COMDIS/imagenes/Pasted image 20251012155113.png",
+    "COMDIS/imagenes/Pasted image 20251012154950.png",
     "COMDIS/imagenes/Pasted image 20251012140851.png",
     "COMDIS/imagenes/Pasted image 20251012140836.png",
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/3. Objetos Distribuidos.md",
-    "COMDIS/bibliografía/ApuntesAndrea.pdf",
     "COMDIS/imagenes/Pasted image 20251012134626.png",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
     "COMDIS/bibliografía/Threads en Java.pdf",
-    "TO-DO.md",
     "README.md",
     "TALF/Casos Difíciles.pdf",
     "TALF/Boletín 1.pdf",
@@ -249,16 +256,9 @@
     "IA/1. Introducción.md",
     "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "TALF/2. Autómatas finitos.md",
-    "TALF/imagenes/Pasted image 20251009161852.png",
-    "TALF/imagenes/Pasted image 20251009161639.png",
     "TALF/1. Introducción.md",
     "COMDIS/2. El API de Sockets.md",
     "COMDIS/1. Introducción.md",
-    "COMDIS/imagenes/Pasted image 20251006163259.png",
-    "COMDIS/imagenes/Pasted image 20251006115034.png",
-    "COMDIS/imagenes/Pasted image 20251006114104.png",
-    "COMDIS/imagenes/Pasted image 20251006111612.png",
-    "COMDIS/imagenes/Pasted image 20251006111232.png",
     "ASR/2. Programación de Scripts.md",
     "ASR/1. Introducción.md",
     "ENSO/1. Introducción.md"
