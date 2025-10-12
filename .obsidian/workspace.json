@@ -13,12 +13,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DO.md",
+                "file": "COMDIS/3. Objetos Distribuidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO-DO"
+              "title": "3. Objetos Distribuidos"
+            }
+          },
+          {
+            "id": "b56965dac5d0bd25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMDIS/4. RMI Avanzado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. RMI Avanzado"
+            }
+          },
+          {
+            "id": "01005eee86e97fa3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ApuntesAndrea"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5f39488b2bde57b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04416fab5179acf4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ApuntesAndrea"
             }
           }
         ]
@@ -78,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -170,12 +216,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "59cfa49180420a3a",
+  "active": "04416fab5179acf4",
   "lastOpenFiles": [
+    "COMDIS/4. RMI Avanzado.md",
+    "COMDIS/bibliografía/ApuntesAndrea.pdf",
+    "COMDIS/3. Objetos Distribuidos.md",
+    "TO-DO.md",
+    "README.md",
     "TALF/Casos Difíciles.pdf",
     "TALF/Boletín 1.pdf",
     "TALF/Examenes/Test1.pdf",
-    "TO-DO.md",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/1. Introducción.md",
@@ -188,9 +238,6 @@
     "TALF/imagenes/Pasted image 20251009161639.png",
     "TALF/1. Introducción.md",
     "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
-    "README.md",
-    "TALF/Examenes",
-    "COMDIS/3. Objetos Distribuidos.md",
     "COMDIS/2. El API de Sockets.md",
     "COMDIS/1. Introducción.md",
     "COMDIS/imagenes/Pasted image 20251006163259.png",

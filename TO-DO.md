@@ -14,7 +14,6 @@ Crear Workflows
 
 
 # Práctica
-- Comentar practica 2 Talf, hacerle readme
 - Practica 4 ASR
 - Práctica 2 COMDIS
 - Práctica ENSO
