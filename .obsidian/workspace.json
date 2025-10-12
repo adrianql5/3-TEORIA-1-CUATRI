@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMDIS/3. Objetos Distribuidos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Objetos Distribuidos"
-            }
-          },
-          {
-            "id": "b56965dac5d0bd25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "COMDIS/4. RMI Avanzado.md",
                 "mode": "source",
                 "source": false
@@ -47,8 +33,7 @@
               "title": "ApuntesAndrea"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f39488b2bde57b4",
@@ -64,6 +49,18 @@
               },
               "icon": "lucide-file-text",
               "title": "ApuntesAndrea"
+            }
+          },
+          {
+            "id": "152ec6ae68a23902",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
             }
           }
         ]
@@ -216,11 +213,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "04416fab5179acf4",
+  "active": "59cfa49180420a3a",
   "lastOpenFiles": [
+    "COMDIS/3. Objetos Distribuidos.md",
     "COMDIS/4. RMI Avanzado.md",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
-    "COMDIS/3. Objetos Distribuidos.md",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
+    "COMDIS/imagenes/Pasted image 20251012134626.png",
+    "COMDIS/bibliografía/02-El API de Sockets.pdf",
+    "COMDIS/bibliografía/BItacoras.pdf",
+    "COMDIS/bibliografía/Threads en Java.pdf",
     "TO-DO.md",
     "README.md",
     "TALF/Casos Difíciles.pdf",
@@ -230,14 +232,10 @@
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/1. Introducción.md",
     "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
-    "IA/bibliografía/bitacoras_IA.pdf",
     "TALF/2. Autómatas finitos.md",
-    "TALF/bibliografía/TALF_USC_2023_2024.pdf",
-    "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
     "TALF/imagenes/Pasted image 20251009161852.png",
     "TALF/imagenes/Pasted image 20251009161639.png",
     "TALF/1. Introducción.md",
-    "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
     "COMDIS/2. El API de Sockets.md",
     "COMDIS/1. Introducción.md",
     "COMDIS/imagenes/Pasted image 20251006163259.png",
@@ -247,7 +245,6 @@
     "COMDIS/imagenes/Pasted image 20251006111232.png",
     "COMDIS/imagenes/Pasted image 20251003120051.png",
     "COMDIS/imagenes/Pasted image 20251003111612.png",
-    "COMDIS/imagenes/Pasted image 20251003111303.png",
     "ASR/2. Programación de Scripts.md",
     "ASR/1. Introducción.md",
     "ENSO/1. Introducción.md"
