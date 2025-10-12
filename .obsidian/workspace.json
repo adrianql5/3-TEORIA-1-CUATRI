@@ -4,43 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d29a4e6109a8e9",
+        "id": "34596aa9423985e2",
         "type": "tabs",
         "children": [
           {
-            "id": "59cfa49180420a3a",
+            "id": "75cebf8df8f7dcaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMDIS/4. RMI Avanzado.md",
+                "file": "COMDIS/3. Objetos Distribuidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. RMI Avanzado"
+              "title": "3. Objetos Distribuidos"
             }
           },
           {
-            "id": "01005eee86e97fa3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMDIS/bibliografía/ApuntesAndrea.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ApuntesAndrea"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5f39488b2bde57b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "04416fab5179acf4",
+            "id": "4329a80c4035db77",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -52,7 +34,7 @@
             }
           },
           {
-            "id": "152ec6ae68a23902",
+            "id": "47e4ff2350d9a1aa",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -62,22 +44,9 @@
               "icon": "lucide-file-text",
               "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
             }
-          },
-          {
-            "id": "71a0c329a2369f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TO-DO"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,11 +196,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "59cfa49180420a3a",
+  "active": "47e4ff2350d9a1aa",
   "lastOpenFiles": [
+    "COMDIS/3. Objetos Distribuidos.md",
+    "COMDIS/imagenes/Pasted image 20251012171709.png",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
-    "COMDIS/4. RMI Avanzado.md",
     "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
+    "COMDIS/4. RMI Avanzado.md",
     "COMDIS/imagenes/Pasted image 20251012155647.png",
     "COMDIS/imagenes/Pasted image 20251012155609.png",
     "COMDIS/imagenes/Pasted image 20251012155559.png",
@@ -242,8 +213,6 @@
     "COMDIS/imagenes/Pasted image 20251012154950.png",
     "COMDIS/imagenes/Pasted image 20251012140851.png",
     "COMDIS/imagenes/Pasted image 20251012140836.png",
-    "COMDIS/3. Objetos Distribuidos.md",
-    "COMDIS/imagenes/Pasted image 20251012134626.png",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
     "COMDIS/bibliografía/Threads en Java.pdf",
