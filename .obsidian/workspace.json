@@ -25,15 +25,18 @@
             "id": "a5499e033a3a16ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf"
+                "file": "ASR/2. Programación de Scripts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Apuntes_de_Administracion_De_Sistemas_Y_Redes"
+              "icon": "lucide-file",
+              "title": "2. Programación de Scripts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "798f230961d2b7b8",
@@ -201,7 +204,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e73fd7847ab0b026",
+  "active": "a5499e033a3a16ec",
   "lastOpenFiles": [
     "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/3. Actividades Administrativas Básicas.md",
