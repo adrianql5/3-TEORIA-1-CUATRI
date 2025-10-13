@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA/2. Búsqueda en espacio de estados.md",
+                "file": "TO-DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Búsqueda en espacio de estados"
+              "title": "TO-DO"
             }
           },
           {
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -203,8 +202,11 @@
   },
   "active": "2ce22ca9555b0425",
   "lastOpenFiles": [
-    "IA/bibliografía/bitacoras_IA.pdf",
     "IA/2. Búsqueda en espacio de estados.md",
+    "IA/imagenes/Pasted image 20251013114041.png",
+    "IA/imagenes/Pasted image 20251013114014.png",
+    "IA/imagenes/Pasted image 20251013113415.png",
+    "IA/bibliografía/bitacoras_IA.pdf",
     "IA/imagenes/Pasted image 20251013111156.png",
     "IA/imagenes/Pasted image 20251013111133.png",
     "IA/imagenes/Pasted image 20251013111115.png",
@@ -214,14 +216,11 @@
     "IA/imagenes/Pasted image 20251013110516.png",
     "IA/imagenes/Pasted image 20251013110504.png",
     "IA/imagenes/Pasted image 20251013110434.png",
-    "IA/imagenes/Pasted image 20251013110346.png",
     "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
     "TO-DO.md",
     "COMDIS/3. Objetos Distribuidos.md",
-    "COMDIS/imagenes/Pasted image 20251012171709.png",
     "COMDIS/4. RMI Avanzado.md",
-    "COMDIS/imagenes/Pasted image 20251012155647.png",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
     "COMDIS/bibliografía/Threads en Java.pdf",

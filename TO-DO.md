@@ -10,10 +10,8 @@ Crear Workflows
 
 
 # Teoría
-- Apuntes Tema 2-3 IA
+- Apuntes Tema 3 IA
 - Apuntes Tema 3 ASR
-- Apuntes Tema 4 comdis
-
 
 # Práctica
 - Practica 4 ASR
