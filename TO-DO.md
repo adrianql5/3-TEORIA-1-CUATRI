@@ -1,6 +1,6 @@
 # Mamonadas
 Script atajos spotify
-Script para jflap, vscode, pycharm, clion, ollama.
+Script ollama.
 
 INvestigar sobre licencias de copyrght
 
