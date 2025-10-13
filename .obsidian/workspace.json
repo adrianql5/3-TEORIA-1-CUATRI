@@ -4,51 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd504172dcc22ab",
+        "id": "0e78bd02a2dd8c37",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce22ca9555b0425",
+            "id": "e73fd7847ab0b026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DO.md",
+                "file": "ASR/3. Actividades Administrativas Básicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO-DO"
+              "title": "3. Actividades Administrativas Básicas"
             }
           },
           {
-            "id": "b9621ec1f6b1739e",
+            "id": "a5499e033a3a16ec",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "IA/bibliografía/bitacoras_IA.pdf"
+                "file": "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "bitacoras_IA"
+              "title": "Apuntes_de_Administracion_De_Sistemas_Y_Redes"
             }
           }
         ]
       },
       {
-        "id": "e254754a0ce1ad99",
+        "id": "798f230961d2b7b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d61c97743cd74821",
+            "id": "fc923f1830c79a50",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "IA/bibliografía/bitacoras_IA.pdf"
+                "file": "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "bitacoras_IA"
+              "title": "Apuntes_de_Administracion_De_Sistemas_Y_Redes"
             }
           }
         ]
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -200,40 +201,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2ce22ca9555b0425",
+  "active": "e73fd7847ab0b026",
   "lastOpenFiles": [
+    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
+    "ASR/3. Actividades Administrativas Básicas.md",
+    "ASR/2. Programación de Scripts.md",
+    "ASR/1. Introducción.md",
+    "TALF/bibliografía/TALF_USC_2023_2024.pdf",
+    "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
+    "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
+    "ENSO/bibliografía/ENSO_DENSO.pdf",
+    "ENSO/bibliografía/Ingenieria del Software - Parte I.pdf",
+    "COMDIS/bibliografía/Threads en Java.pdf",
+    "COMDIS/bibliografía/BItacoras.pdf",
+    "COMDIS/bibliografía/02-El API de Sockets.pdf",
+    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
+    "TO-DO.md",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/imagenes/Pasted image 20251013114041.png",
     "IA/imagenes/Pasted image 20251013114014.png",
     "IA/imagenes/Pasted image 20251013113415.png",
-    "IA/bibliografía/bitacoras_IA.pdf",
     "IA/imagenes/Pasted image 20251013111156.png",
     "IA/imagenes/Pasted image 20251013111133.png",
     "IA/imagenes/Pasted image 20251013111115.png",
     "IA/imagenes/Pasted image 20251013110929.png",
-    "IA/bibliografía/IA_apuntesCompletos.pdf",
-    "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "IA/imagenes/Pasted image 20251013110516.png",
     "IA/imagenes/Pasted image 20251013110504.png",
     "IA/imagenes/Pasted image 20251013110434.png",
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
-    "COMDIS/bibliografía/ApuntesAndrea.pdf",
-    "TO-DO.md",
     "COMDIS/3. Objetos Distribuidos.md",
     "COMDIS/4. RMI Avanzado.md",
-    "COMDIS/bibliografía/02-El API de Sockets.pdf",
-    "COMDIS/bibliografía/BItacoras.pdf",
-    "COMDIS/bibliografía/Threads en Java.pdf",
     "README.md",
-    "TALF/Casos Difíciles.pdf",
-    "TALF/Boletín 1.pdf",
     "IA/1. Introducción.md",
     "TALF/2. Autómatas finitos.md",
     "TALF/1. Introducción.md",
     "COMDIS/2. El API de Sockets.md",
     "COMDIS/1. Introducción.md",
-    "ASR/2. Programación de Scripts.md",
-    "ASR/1. Introducción.md",
     "ENSO/1. Introducción.md"
   ]
 }
