@@ -45,7 +45,8 @@
               "title": "[1] Computación Distribuida Fundamentos y Aplicaciones-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -195,8 +195,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75cebf8df8f7dcaa",
+  "active": "4329a80c4035db77",
   "lastOpenFiles": [
+    "TO-DO.md",
     "COMDIS/3. Objetos Distribuidos.md",
     "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/imagenes/Pasted image 20251012171709.png",
@@ -206,7 +207,6 @@
     "COMDIS/imagenes/Pasted image 20251012155609.png",
     "COMDIS/imagenes/Pasted image 20251012155559.png",
     "COMDIS/imagenes/Pasted image 20251012155307.png",
-    "TO-DO.md",
     "COMDIS/imagenes/Pasted image 20251012155211.png",
     "COMDIS/imagenes/Pasted image 20251012155113.png",
     "COMDIS/imagenes/Pasted image 20251012154950.png",
