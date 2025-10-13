@@ -1,8 +1,9 @@
 # Mamonadas
+Configurar IDEs
 Script atajos spotify
 Script ollama.
 
-INvestigar sobre licencias de copyrght
+Investigar sobre licencias de copyrght
 
 Aprender usos de la IA local con ollama
 Investigar sobre agentes de IA

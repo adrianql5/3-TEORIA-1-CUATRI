@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASR/3. Actividades Administrativas Básicas.md",
+                "file": "TO-DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Actividades Administrativas Básicas"
+              "title": "TO-DO"
             }
           },
           {
@@ -34,23 +34,19 @@
               "icon": "lucide-file",
               "title": "2. Programación de Scripts"
             }
-          }
-        ]
-      },
-      {
-        "id": "798f230961d2b7b8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "fc923f1830c79a50",
+            "id": "a8cef946ee33291b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf"
+                "file": "ASR/1. Introducción.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Apuntes_de_Administracion_De_Sistemas_Y_Redes"
+              "icon": "lucide-file",
+              "title": "1. Introducción"
             }
           }
         ]
@@ -110,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -205,8 +200,9 @@
   },
   "active": "e73fd7847ab0b026",
   "lastOpenFiles": [
-    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/3. Actividades Administrativas Básicas.md",
+    "ASR/1. Introducción.md",
+    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/imagenes/Pasted image 20251013162755.png",
     "ASR/imagenes/Pasted image 20251013162733.png",
     "ASR/imagenes/Pasted image 20251013162233.png",
@@ -218,7 +214,6 @@
     "ASR/2. Programación de Scripts.md",
     "ASR/imagenes/Pasted image 20251013152508.png",
     "ASR/imagenes/Pasted image 20251013132516.png",
-    "ASR/1. Introducción.md",
     "TALF/bibliografía/TALF_USC_2023_2024.pdf",
     "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
     "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
