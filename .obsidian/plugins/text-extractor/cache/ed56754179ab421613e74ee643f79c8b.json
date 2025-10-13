@@ -1,0 +1,1 @@
+{"path":"ASR/imagenes/Pasted image 20251013130913.png","text":"$ ps -o user,pid,state,comm USER PID S COMMAND amo 1357 S bash amo 1992 § gedit amo 2279 R ps","libVersion":"0.5.0","langs":"eng"}
