@@ -20,6 +20,36 @@
               "icon": "lucide-file",
               "title": "2. Búsqueda en espacio de estados"
             }
+          },
+          {
+            "id": "b9621ec1f6b1739e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IA/bibliografía/bitacoras_IA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bitacoras_IA"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e254754a0ce1ad99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61c97743cd74821",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IA/bibliografía/bitacoras_IA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bitacoras_IA"
+            }
           }
         ]
       }
@@ -173,6 +203,18 @@
   },
   "active": "2ce22ca9555b0425",
   "lastOpenFiles": [
+    "IA/bibliografía/bitacoras_IA.pdf",
+    "IA/2. Búsqueda en espacio de estados.md",
+    "IA/imagenes/Pasted image 20251013111156.png",
+    "IA/imagenes/Pasted image 20251013111133.png",
+    "IA/imagenes/Pasted image 20251013111115.png",
+    "IA/imagenes/Pasted image 20251013110929.png",
+    "IA/bibliografía/IA_apuntesCompletos.pdf",
+    "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
+    "IA/imagenes/Pasted image 20251013110516.png",
+    "IA/imagenes/Pasted image 20251013110504.png",
+    "IA/imagenes/Pasted image 20251013110434.png",
+    "IA/imagenes/Pasted image 20251013110346.png",
     "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
     "TO-DO.md",
@@ -180,25 +222,13 @@
     "COMDIS/imagenes/Pasted image 20251012171709.png",
     "COMDIS/4. RMI Avanzado.md",
     "COMDIS/imagenes/Pasted image 20251012155647.png",
-    "COMDIS/imagenes/Pasted image 20251012155609.png",
-    "COMDIS/imagenes/Pasted image 20251012155559.png",
-    "COMDIS/imagenes/Pasted image 20251012155307.png",
-    "COMDIS/imagenes/Pasted image 20251012155211.png",
-    "COMDIS/imagenes/Pasted image 20251012155113.png",
-    "COMDIS/imagenes/Pasted image 20251012154950.png",
-    "COMDIS/imagenes/Pasted image 20251012140851.png",
-    "COMDIS/imagenes/Pasted image 20251012140836.png",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
     "COMDIS/bibliografía/Threads en Java.pdf",
     "README.md",
     "TALF/Casos Difíciles.pdf",
     "TALF/Boletín 1.pdf",
-    "TALF/Examenes/Test1.pdf",
-    "IA/2. Búsqueda en espacio de estados.md",
-    "IA/bibliografía/IA_apuntesCompletos.pdf",
     "IA/1. Introducción.md",
-    "IA/bibliografía/Introducción á IA e perspectiva histórica.pdf",
     "TALF/2. Autómatas finitos.md",
     "TALF/1. Introducción.md",
     "COMDIS/2. El API de Sockets.md",
