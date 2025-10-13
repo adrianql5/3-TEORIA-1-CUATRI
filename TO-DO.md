@@ -16,6 +16,7 @@ Crear Workflows
 
 
 # Práctica
+- Crear jar TALF
 - Practica 4 ASR
 - Práctica 2 COMDIS
 - Práctica ENSO

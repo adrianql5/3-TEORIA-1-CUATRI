@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMDIS/3. Objetos Distribuidos.md",
+                "file": "TO-DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Objetos Distribuidos"
+              "title": "TO-DO"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "75cebf8df8f7dcaa",
   "lastOpenFiles": [
-    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/3. Objetos Distribuidos.md",
+    "COMDIS/bibliografía/[1] Computación Distribuida Fundamentos y Aplicaciones-1.pdf",
     "COMDIS/imagenes/Pasted image 20251012171709.png",
     "COMDIS/bibliografía/ApuntesAndrea.pdf",
     "COMDIS/4. RMI Avanzado.md",
