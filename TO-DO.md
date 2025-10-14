@@ -1,5 +1,4 @@
 # Mamonadas
-Configurar IDEs
 Script atajos spotify
 Script ollama.
 Gestor contraseñas
