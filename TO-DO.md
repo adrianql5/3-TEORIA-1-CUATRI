@@ -16,5 +16,6 @@ Crear Workflows
 - Mirar que coño hacen en enso
 
 # Práctica
+- Instalar lo de IA
 - Practica 4 ASR
 - Práctica ENSO

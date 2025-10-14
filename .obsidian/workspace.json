@@ -25,12 +25,14 @@
             "id": "157b0e8131c812b8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf"
+                "file": "TO-DO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Apuntes_de_Administracion_De_Sistemas_Y_Redes"
+              "icon": "lucide-file",
+              "title": "TO-DO"
             }
           }
         ],
@@ -185,11 +187,11 @@
   },
   "active": "157b0e8131c812b8",
   "lastOpenFiles": [
+    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/3. Actividades Administrativas Básicas.md",
     "TO-DO.md",
     "ASR/2. Programación de Scripts.md",
     "ASR/1. Introducción.md",
-    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/imagenes/Pasted image 20251013162755.png",
     "ASR/imagenes/Pasted image 20251013162733.png",
     "ASR/imagenes/Pasted image 20251013162233.png",
