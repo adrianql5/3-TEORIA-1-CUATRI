@@ -2,7 +2,7 @@
 Configurar IDEs
 Script atajos spotify
 Script ollama.
-
+Gestor contraseñas
 Investigar sobre licencias de copyrght
 
 Aprender usos de la IA local con ollama
