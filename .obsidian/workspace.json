@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DO.md",
+                "file": "ASR/3. Actividades Administrativas Básicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO-DO"
+              "title": "3. Actividades Administrativas Básicas"
             }
           },
           {
@@ -200,6 +200,8 @@
   },
   "active": "e73fd7847ab0b026",
   "lastOpenFiles": [
+    "TO-DO.md",
+    "ASR/2. Programación de Scripts.md",
     "ASR/3. Actividades Administrativas Básicas.md",
     "ASR/1. Introducción.md",
     "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
@@ -211,7 +213,6 @@
     "ASR/imagenes/Pasted image 20251013161000.png",
     "ASR/imagenes/Pasted image 20251013160732.png",
     "ASR/imagenes/Pasted image 20251013160519.png",
-    "ASR/2. Programación de Scripts.md",
     "ASR/imagenes/Pasted image 20251013152508.png",
     "ASR/imagenes/Pasted image 20251013132516.png",
     "TALF/bibliografía/TALF_USC_2023_2024.pdf",
@@ -223,7 +224,6 @@
     "COMDIS/bibliografía/BItacoras.pdf",
     "COMDIS/bibliografía/02-El API de Sockets.pdf",
     "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
-    "TO-DO.md",
     "IA/2. Búsqueda en espacio de estados.md",
     "COMDIS/3. Objetos Distribuidos.md",
     "COMDIS/4. RMI Avanzado.md",
