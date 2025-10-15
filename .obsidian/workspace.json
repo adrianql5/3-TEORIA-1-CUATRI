@@ -33,8 +33,7 @@
               "title": "bitacoras_IA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +183,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "915f7c5e6054421b",
+  "active": "b66e0ab20118656f",
   "lastOpenFiles": [
-    "IA/3. Sistemas Basados en Conocimiento.md",
-    "IA/imagenes/Pasted image 20251015105117.png",
     "IA/bibliografía/bitacoras_IA.pdf",
-    "IA/imagenes/Pasted image 20251015104635.png",
+    "IA/3. Sistemas Basados en Conocimiento.md",
+    "IA/imagenes/Pasted image 20251015112408.png",
+    "IA/imagenes/Pasted image 20251015112342.png",
+    "IA/imagenes/Pasted image 20251015112239.png",
+    "IA/imagenes/Pasted image 20251015112226.png",
+    "IA/imagenes/Pasted image 20251015111926.png",
+    "IA/imagenes/Pasted image 20251015111612.png",
+    "IA/imagenes/Pasted image 20251015111446.png",
+    "IA/imagenes/Pasted image 20251015111342.png",
+    "IA/imagenes/Pasted image 20251015111318.png",
+    "IA/imagenes/Pasted image 20251015105117.png",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "TO-DO.md",
@@ -197,14 +204,6 @@
     "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/2. Programación de Scripts.md",
     "ASR/1. Introducción.md",
-    "ASR/imagenes/Pasted image 20251013162755.png",
-    "ASR/imagenes/Pasted image 20251013162733.png",
-    "ASR/imagenes/Pasted image 20251013162233.png",
-    "ASR/imagenes/Pasted image 20251013161955.png",
-    "ASR/imagenes/Pasted image 20251013161919.png",
-    "ASR/imagenes/Pasted image 20251013161000.png",
-    "ASR/imagenes/Pasted image 20251013160732.png",
-    "ASR/imagenes/Pasted image 20251013160519.png",
     "TALF/bibliografía/TALF_USC_2023_2024.pdf",
     "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
     "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
