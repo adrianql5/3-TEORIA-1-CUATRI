@@ -32,14 +32,7 @@
               "icon": "lucide-file",
               "title": "3. Sistemas Basados en Conocimiento"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5beb3985f82d30c6",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "915f7c5e6054421b",
             "type": "leaf",
@@ -52,7 +45,8 @@
               "title": "bitacoras_IA"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,10 +196,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b66e0ab20118656f",
+  "active": "915f7c5e6054421b",
   "lastOpenFiles": [
-    "IA/bibliografía/bitacoras_IA.pdf",
     "IA/3. Sistemas Basados en Conocimiento.md",
+    "IA/bibliografía/bitacoras_IA.pdf",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "TO-DO.md",
