@@ -1,5 +1,5 @@
 # Mamonadas
-Script ollama
+
 Gestor contraseñas
 Investigar sobre licencias de copyrght
 
