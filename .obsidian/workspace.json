@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c98f6e79392750d1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "IA/bibliografía/bitacoras_IA.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bitacoras_IA"
-            }
-          },
-          {
             "id": "b66e0ab20118656f",
             "type": "leaf",
             "state": {
@@ -46,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +187,9 @@
   "active": "915f7c5e6054421b",
   "lastOpenFiles": [
     "IA/3. Sistemas Basados en Conocimiento.md",
+    "IA/imagenes/Pasted image 20251015105117.png",
     "IA/bibliografía/bitacoras_IA.pdf",
+    "IA/imagenes/Pasted image 20251015104635.png",
     "IA/2. Búsqueda en espacio de estados.md",
     "IA/bibliografía/IA_apuntesCompletos.pdf",
     "TO-DO.md",
@@ -215,8 +205,6 @@
     "ASR/imagenes/Pasted image 20251013161000.png",
     "ASR/imagenes/Pasted image 20251013160732.png",
     "ASR/imagenes/Pasted image 20251013160519.png",
-    "ASR/imagenes/Pasted image 20251013152508.png",
-    "ASR/imagenes/Pasted image 20251013132516.png",
     "TALF/bibliografía/TALF_USC_2023_2024.pdf",
     "TALF/bibliografía/TALF_ApuntesCompletos.pdf",
     "TALF/bibliografía/[1] Teoría de autómatas, lenguajes y computación.pdf",
