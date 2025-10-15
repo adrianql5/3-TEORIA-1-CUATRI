@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TALF/2. Autómatas finitos.md",
+                "file": "TO-DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Autómatas finitos"
+              "title": "TO-DO"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "9355396e127ec524",
   "lastOpenFiles": [
-    "TALF/bibliografía/TALF_USC_2023_2024.pdf",
     "TALF/2. Autómatas finitos.md",
+    "TALF/bibliografía/TALF_USC_2023_2024.pdf",
     "TALF/1. Introducción.md",
     "TALF/Boletín 1.pdf",
     "TO-DO.md",
