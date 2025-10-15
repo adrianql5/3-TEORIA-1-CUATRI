@@ -8,35 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e73fd7847ab0b026",
+            "id": "c98f6e79392750d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ASR/3. Actividades Administrativas Básicas.md",
-                "mode": "source",
-                "source": false
+                "file": "IA/bibliografía/bitacoras_IA.pdf"
               },
-              "icon": "lucide-file",
-              "title": "3. Actividades Administrativas Básicas"
+              "icon": "lucide-file-text",
+              "title": "bitacoras_IA"
             }
           },
           {
-            "id": "157b0e8131c812b8",
+            "id": "b66e0ab20118656f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DO.md",
+                "file": "IA/3. Sistemas Basados en Conocimiento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO-DO"
+              "title": "3. Sistemas Basados en Conocimiento"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "5beb3985f82d30c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915f7c5e6054421b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IA/bibliografía/bitacoras_IA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bitacoras_IA"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f454003e97f389fb",
@@ -185,11 +202,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "157b0e8131c812b8",
+  "active": "b66e0ab20118656f",
   "lastOpenFiles": [
-    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
-    "ASR/3. Actividades Administrativas Básicas.md",
+    "IA/bibliografía/bitacoras_IA.pdf",
+    "IA/3. Sistemas Basados en Conocimiento.md",
+    "IA/2. Búsqueda en espacio de estados.md",
+    "IA/bibliografía/IA_apuntesCompletos.pdf",
     "TO-DO.md",
+    "ASR/3. Actividades Administrativas Básicas.md",
+    "ASR/bibliografía/Apuntes_de_Administracion_De_Sistemas_Y_Redes.pdf",
     "ASR/2. Programación de Scripts.md",
     "ASR/1. Introducción.md",
     "ASR/imagenes/Pasted image 20251013162755.png",
@@ -209,9 +230,6 @@
     "ENSO/bibliografía/Ingenieria del Software - Parte I.pdf",
     "COMDIS/bibliografía/Threads en Java.pdf",
     "COMDIS/bibliografía/BItacoras.pdf",
-    "COMDIS/bibliografía/02-El API de Sockets.pdf",
-    "COMDIS/bibliografía/01-Paradigmas de la computación distribuida.pdf",
-    "IA/2. Búsqueda en espacio de estados.md",
     "COMDIS/3. Objetos Distribuidos.md",
     "COMDIS/4. RMI Avanzado.md",
     "README.md",
