@@ -17,7 +17,7 @@
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
-  "defaultChainType": "copilot_plus",
+  "defaultChainType": "llm_chain",
   "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
