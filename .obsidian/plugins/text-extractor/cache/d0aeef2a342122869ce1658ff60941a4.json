@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250930102429.png","text":"$ cat parms2.sh #1/bin/bash echo $# echo $x echo \"$1 $2 $3 $4 $5 $6 $7 $8 $9 ${10} ${11}\" shift 9 echo $1 $2 $3 echo $# acho $x $ bash parms2.shabcdefghi jk1 12 abcdefghijkl abcdefghijk jk1 3 jk1","libVersion":"0.5.0","langs":"eng"}

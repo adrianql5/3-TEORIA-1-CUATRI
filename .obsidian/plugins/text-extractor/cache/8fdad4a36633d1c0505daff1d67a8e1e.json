@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250930102633.png","text":"#!/bin/bash name=( \"cero” \"uno\" \"dos\" \"tres\" ) num=( 1 23 4) echo ${name[0]} echo ${num[0]1} for i in \"${name[€]}\" ; do echo $i done for i in \"${num[0]}\" ; do echo $i done echo \"total= ${#name[0]}\"","libVersion":"0.5.0","langs":"eng"}

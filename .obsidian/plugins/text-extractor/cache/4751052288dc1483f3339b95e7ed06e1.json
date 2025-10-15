@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250929131305.png","text":"$ echo date date $ echo “date” Xov Xul 21 13:09:39 CEST 2005 $ echo lineas en fichero=$(wc -1 fichero) # we -1 cuenta el nimero de lineas en el fichero; el comando se ejecuta y su salida se pasa al echo","libVersion":"0.5.0","langs":"eng"}

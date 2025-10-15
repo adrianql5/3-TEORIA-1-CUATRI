@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250918112801.png","text":"# Muestra el target actual systemct]l get-default # Conmuta al target especificado systemctl isolate <name of target>.target # Fija el target que se ejecutard en el arranque systemctl set-default <name of target>.target","libVersion":"0.5.0","langs":"eng"}

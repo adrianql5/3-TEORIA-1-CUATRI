@@ -1,1 +1,0 @@
-{"path":"COMDIS/imagenes/Pasted image 20250923132053.png","text":"Un servidor utiiza dos sockets: uno para aceptar as conexiones, otro para send/receive. Cliente 1 Servidor sacketde [le ) ‘conexion ™. socketde | | datos \\ Cliente 2 + Operacion de conexion ~=—» Operacion send/receive Figura 4.17. B AP do socket en modo stroam.","libVersion":"0.5.0","langs":"eng"}

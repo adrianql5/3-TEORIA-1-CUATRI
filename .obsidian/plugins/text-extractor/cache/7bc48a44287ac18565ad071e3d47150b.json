@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250930104958.png","text":"# Imprime el contenido de los ficheros hasta que # encuentra una linea en blanco for file in $x do while read buf do if [[ -z \"$but\" 1] then break 2 i echo $buf done <$file done","libVersion":"0.5.0","langs":"eng"}

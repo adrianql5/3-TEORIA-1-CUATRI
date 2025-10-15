@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250918124328.png","text":"» Opciones: « ./configure --prefix=dir instala el programa en dir/bin, dir/1ib, etc, en vez de en el directorio por defecto (normalmente /usr/local) « Para ver opciones: ./configure --help « Ejemplo: e ./configure --prefix=/opt instala la aplicacién en /opt/","libVersion":"0.5.0","langs":"eng"}

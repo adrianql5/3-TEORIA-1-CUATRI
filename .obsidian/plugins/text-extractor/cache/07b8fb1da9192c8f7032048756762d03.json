@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250929230224.png","text":"$ pipo=\\| $ eval cat uno $pipe more Este es el fichero uno $ = En la primera pasada reemplaza $pipe por \" = En la segunda ejecuta el comando cat uno | more","libVersion":"0.5.0","langs":"eng"}

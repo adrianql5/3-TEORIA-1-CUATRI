@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250930102335.png","text":"$0 el nombre del script $1a $9 pardmetros del 1 al 9 ${10}, ${11},... | pardmetros por encima del 10 ${a:-b} si no existe $a se usa el valor b s# ntmero de parfmetros $x, $0 todos los pardmetros","libVersion":"0.5.0","langs":"eng"}

@@ -1,1 +1,0 @@
-{"path":"IA/imagenes/Pasted image 20251015111318.png","text":"Regla 1. IF coche no arranca, THEN comprobar bateria Regla 2. IF coche no arranca THEN comprobar combustible Regla 75. IF comprobar bateria AND voltaje bateria < 10V THEN cambiar bateria Regla 120. IF comprobar combustible AND depdsito de combustible vacio THEN 1lenar depésito.","libVersion":"0.5.0","langs":"eng"}

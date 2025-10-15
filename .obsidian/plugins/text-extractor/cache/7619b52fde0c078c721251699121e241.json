@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20251013160732.png","text":"$ abivord & [1] 7681 $ renice 10 -p 7681 7681: old priority O, new priority 10 $ renice 3 -u tomas 503: old priority 0, new priority 3","libVersion":"0.5.0","langs":"eng"}

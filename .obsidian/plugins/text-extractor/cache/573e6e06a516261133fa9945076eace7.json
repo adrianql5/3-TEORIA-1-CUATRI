@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250930103515.png","text":"if [[ \"$1\" = \"hola\" ] then echo \"Hola a ti también\" else echo \"No te digo hola\" £i if ([ $21] then echo \"E1 segundo parametro es $2\" else echo \"No hay segundo parémetro” £i","libVersion":"0.5.0","langs":"eng"}

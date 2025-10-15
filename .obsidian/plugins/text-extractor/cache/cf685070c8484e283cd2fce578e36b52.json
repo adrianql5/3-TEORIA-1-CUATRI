@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250918112150.png","text":"# configura un arranque sin entorno grafico systemctl disable xdm # comprueba si hay servidor de ssh systemctl status ssh # reinicia la red systemctl restart networking","libVersion":"0.5.0","langs":"eng"}
