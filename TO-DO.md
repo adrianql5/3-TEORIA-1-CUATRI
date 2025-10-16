@@ -2,14 +2,14 @@
 Gestor contraseñas
 Investigar sobre licencias de copyright
 
-Aprender usos de la IA local con Ollama
 Investigar sobre agentes de IA
 Crear Workflows
 
 # Teoría
 - Apuntes Tema 3 ASR
 - Mirar qué coño hacen en Enso
-
+- Apuntes Tema 5 Comdis
 # Práctica
 - Práctica 4 ASR
 - Práctica ENSO
+- Práctica 3 Comdis
