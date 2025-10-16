@@ -1,1 +1,0 @@
-{"path":"ASR/imagenes/Pasted image 20250918112150.png","text":"systemcl disable xdm # reboot systemcla si hay servidor de ssh # systemcl status ssth # reinicia la red systemcl restart networking,","libVersion":"0.2.0"}
