@@ -1,7 +1,11 @@
 # Mamonadas
 correo ciberseguridad
 
-jeff nipard ab
+investigar revolut
+
+buscar zapas correr + chaqueta
+
+jeff nipard ab forearm
 
 Buscar fisio
 
