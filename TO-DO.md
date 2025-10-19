@@ -1,5 +1,8 @@
 # Mamonadas
 correo ciberseguridad
+altia
+
+añadir bitwarden y ftos de hyprdebian al repo
 
 investigar revolut
 
