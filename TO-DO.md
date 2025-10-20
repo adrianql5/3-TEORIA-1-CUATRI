@@ -1,7 +1,4 @@
 # Mamonadas
-correo ciberseguridad
-altia
-
 añadir bitwarden y ftos de hyprdebian al repo
 
 investigar revolut
@@ -18,11 +15,11 @@ Investigar sobre agentes de IA
 Crear Workflows
 
 # Teoría
-- Apuntes Tema 3 ASR
+- Apuntes Tema 3 ASR y backups
 - Mirar qué coño hacen en Enso
 - Apuntes Tema 5 Comdis
 # Práctica
 - Práctica 3 Talf
-- Práctica 4 ASR revisar funcionamiento de at, crontab y copia seguridad
 - Práctica ENSO
 - Práctica 3 Comdis
+- Clips IA
