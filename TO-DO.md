@@ -23,6 +23,6 @@ Crear Workflows
 - Apuntes Tema 5 Comdis
 # Práctica
 - Práctica 3 Talf
-- Práctica 4 ASR
+- Práctica 4 ASR revisar funcionamiento de at, crontab y copia seguridad
 - Práctica ENSO
 - Práctica 3 Comdis
