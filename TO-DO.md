@@ -19,7 +19,6 @@ Crear Workflows
 - Mirar qué coño hacen en Enso
 - Apuntes Tema 5 Comdis
 # Práctica
-- Práctica 3 Talf
 - Práctica ENSO
 - Práctica 3 Comdis
 - Clips IA
