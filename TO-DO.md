@@ -15,10 +15,10 @@ Investigar sobre agentes de IA
 Crear Workflows
 
 # Teoría
-- Apuntes Tema 3 ASR y backups
+- Apuntes Tema 3 ASR
 - Mirar qué coño hacen en Enso
 - Apuntes Tema 5 Comdis
 # Práctica
 - Práctica ENSO
-- Práctica 3 Comdis
+- Práctica 3 Comdis repasarla
 - Clips IA
