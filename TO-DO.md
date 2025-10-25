@@ -20,5 +20,4 @@ Crear Workflows
 - Apuntes Tema 5 Comdis
 # Práctica
 - Práctica ENSO
-- Práctica 3 Comdis repasarla
 - Clips IA
