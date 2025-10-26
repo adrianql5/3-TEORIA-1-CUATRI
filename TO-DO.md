@@ -1,8 +1,6 @@
 # Mamonadas
 añadir bitwarden y ftos de hyprdebian al repo
 
-investigar revolut
-
 convertir todos mis archivos a pdf y que se updateen automaticamente con cron y añadirles un control de autoría
 
 paquete cnfans
