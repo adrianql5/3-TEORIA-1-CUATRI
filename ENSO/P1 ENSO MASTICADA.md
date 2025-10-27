@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos -->
+
 # Planning Detallado - Práctica 1: Planificación y Ciclos de Vida
 
 ## FASE 0: PREPARACIÓN INICIAL (Antes de empezar)

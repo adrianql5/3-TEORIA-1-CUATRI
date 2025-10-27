@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos -->
+
 # GUÍA DE ESTIMACIÓN DE ESFUERZOS
 
 ## Sistema de Gestión de Cine (3 meses / 12 semanas)

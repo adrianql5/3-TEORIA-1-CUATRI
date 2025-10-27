@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos -->
+
 # ESPECIFICACIÓN DEL PROYECTO
 
 ## Sistema de Gestión de Cine "Ixildu, Hasiko da!"

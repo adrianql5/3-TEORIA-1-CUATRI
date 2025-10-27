@@ -1,5 +1,5 @@
 # Mamonadas
-convertir todos mis archivos a pdf y que se updateen automaticamente con cron y añadirles un control de autoría
+convertir todos mis archivos a pdf y que se updateen automaticamente con cron
 
 paquete cnfans
 buscar zapas correr + chaqueta
@@ -7,8 +7,6 @@ buscar zapas correr + chaqueta
 jeff nipard ab forearm
 
 Buscar fisio
-
-Investigar sobre licencias de copyright
 
 Investigar sobre agentes de IA
 Crear Workflows
