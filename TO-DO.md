@@ -17,5 +17,7 @@ Crear Workflows
 - Apuntes Tema 3 ASR
 - Mirar qué coño hacen en Enso
 - Apuntes Tema 5 Comdis
+- Apuntes gramática TALF
 # Práctica
+- Práctica TALF
 - Práctica ENSO
