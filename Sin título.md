@@ -1,241 +1,258 @@
- Plataforma web que conecta estudiantes universitarios para facilitar la tutoría entre pares y el intercambio de recursos académicos.
+# 📚 Xuntos - Plataforma de Colaboración entre Estudantes
 
-## 🚀 Stack Tecnológico
+## Descrición
 
-### Frontend
-- Next.js 15 (App Router)
-- TypeScript
-- Tailwind CSS
-- Socket.io-client (chat en tiempo real)
-- Zustand (state management)
+**Xuntos** é unha aplicación web completamente en galego que permite a estudantes compartir perfís, apuntes e chatear entre eles. Agora con arquitectura cliente-servidor completa para persistencia de datos e comunicación en tempo real.
 
-### Backend
-- Node.js + Express
-- TypeScript
-- PostgreSQL (con pg/node-postgres)
-- Socket.io (WebSockets)
-- JWT (autenticación)
+## Características Principais
 
-## 📋 Requisitos Previos
+✅ **Xestión de Perfís**
+- Crear e editar o teu perfil persoal
+- Descrición sobre ti e os teus estudos
+- Lista de asignaturas que dominas
+- Subir apuntes (texto ou arquivos)
 
-- Node.js 18+ y npm/yarn
-- PostgreSQL 14+
+✅ **Explorar Outros Usuarios**
+- Ver lista de todos os usuarios rexistrados
+- Consultar perfís doutros estudantes
+- Ver os seus apuntes e asignaturas
 
-## 🔧 Instalación
+✅ **Sistema de Chat**
+- Iniciar conversas privadas con calquera usuario
+- Historial de mensaxes
+- Interface intuitiva estilo WhatsApp
 
-### 1. Clonar el repositorio
+✅ **Interface en Galego**
+- Toda a aplicación está completamente en galego
+- Deseño moderno e responsive (adaptado a móbil e escritorio)
+
+✅ **Arquitectura Cliente-Servidor**
+- Backend con Node.js e Express
+- API REST para todas as operacións
+- Persistencia de datos no servidor
+- Comunicación asíncrona cliente-servidor
+
+## Datos Iniciais de Demostración
+
+A aplicación ven cargada con 5 usuarios de exemplo con perfís completos:
+
+1. **María González** - Enxeñería Informática (con apuntes de JavaScript e SQL)
+2. **Carlos Pérez** - Matemáticas (con apuntes de Estatística e Álxebra)
+3. **Laura Fernández** - Física (con apuntes de Leis de Newton e Termodinámica)
+4. **David Silva** - Filosofía e Literatura Galega (con apuntes de Filosofía)
+5. **Ana Martínez** - Bioloxía (con apuntes de Fotosíntese e Ecosistemas)
+
+Tamén inclúe conversas de exemplo entre os usuarios para demostrar o sistema de mensaxería.
+
+## Requisitos
+
+- **Node.js** (versión 14 ou superior)
+- Navegador web moderno (Chrome, Firefox, Safari, Edge)
+
+## Instalación e Uso
+
+### Opción 1: Script Automático (Linux/macOS)
+
 ```bash
-git clone <repository-url>
-cd Xuntos
+# 1. Darlle permisos de execución ao script (xa feito)
+chmod +x iniciar.sh
+
+# 2. Executar o script
+./iniciar.sh
 ```
 
-### 2. Configurar Backend
+### Opción 2: Instalación Manual
 
 ```bash
-cd backend
+# 1. Instalar dependencias do servidor
+cd servidor
 npm install
 
-# Copiar variables de entorno
-cp .env.example .env
-
-# Editar .env con tus credenciales de PostgreSQL
-# DATABASE_URL="postgresql://postgres:tu_password@localhost:5432/xuntos"
-
-# Iniciar servidor de desarrollo
-# La base de datos y tablas se crearán automáticamente
-npm run dev
+# 2. Iniciar o servidor
+node server.js
 ```
 
-El backend estará disponible en `http://localhost:5000`
-
-**Nota:** El backend crea automáticamente la base de datos y todas las tablas al iniciarse por primera vez.
-
-### 3. Configurar Frontend
+### Opción 3: Usando npm desde a raíz
 
 ```bash
-cd frontend
-npm install
+# 1. Instalar dependencias
+npm run install-servidor
 
-# Copiar variables de entorno
-cp .env.example .env.local
-
-# Iniciar servidor de desarrollo
-npm run dev
+# 2. Iniciar a aplicación
+npm run iniciar
 ```
 
-El frontend estará disponible en `http://localhost:3000`
+## Acceder á Aplicación
 
-## 📁 Estructura del Proyecto
+Unha vez que o servidor estea en execución, verás unha mensaxe como esta:
 
 ```
-/Xuntos
-├── /frontend          # Aplicación Next.js
-│   ├── /src
-│   │   ├── /app       # App Router (rutas)
-│   │   ├── /components
-│   │   ├── /lib       # Utilidades y configuración
-│   │   ├── /hooks
-│   │   └── /types
-│   └── package.json
-│
-├── /backend           # API Express
-│   ├── /src
-│   │   ├── /controllers
-│   │   ├── /routes
-│   │   ├── /middleware
-│   │   ├── /services
-│   │   ├── /utils
-│   │   └── /prisma
-│   ├── /uploads       # Archivos subidos (apuntes)
-│   └── package.json
-│
-└── README.md
+🚀 Servidor Xuntos escoitando no porto 3000
+📡 API dispoñible en http://localhost:3000/api
+🌐 Cliente dispoñible en http://localhost:3000
+
+✅ Datos iniciais cargados:
+   👥 5 usuarios
+   💬 18 mensaxes
+   📚 9 apuntes totais
 ```
 
-## 🎯 Funcionalidades Principales
+Abre o teu navegador e vai a: **http://localhost:3000**
 
-- ✅ Sistema de autenticación con JWT
-- ✅ Perfiles de usuario configurables
-- ✅ Búsqueda avanzada de tutores
-- ✅ Sistema de mensajería en tiempo real
-- ✅ Gestión y compartición de apuntes
-- ✅ Sistema de valoraciones y reseñas
-- ✅ Diseño responsive
+## Como Usar
 
-## 🗄️ Modelo de Base de Datos
+### 1. Seleccionar ou Crear Usuario
 
-### Tablas principales:
-- **users**: Información de usuarios y autenticación
-- **universities**: Catálogo de universidades
-- **subjects**: Asignaturas disponibles
-- **user_subjects**: Relación entre usuarios y asignaturas que imparten
-- **notes**: Apuntes subidos por usuarios
-- **conversations**: Conversaciones de chat
-- **messages**: Mensajes de chat
-- **reviews**: Valoraciones de tutores
+Ao abrir a aplicación, verás unha pantalla de benvida onde podes:
+- **Seleccionar un usuario existente** (María, Carlos, Laura, David ou Ana)
+- **Crear un novo usuario** escribindo o teu nome
 
-## 🔐 Variables de Entorno
+### 2. Explorar a Aplicación
 
-### Backend (.env)
-```
-DATABASE_URL="postgresql://user:password@localhost:5432/xuntos"
-JWT_SECRET="your-secret-key"
-PORT=5000
-NODE_ENV=development
-UPLOAD_DIR=./uploads
-```
+Unha vez dentro, tes acceso a tres seccións principais:
 
-### Frontend (.env.local)
-```
-NEXT_PUBLIC_API_URL=http://localhost:5000
-NEXT_PUBLIC_SOCKET_URL=http://localhost:5000
-```
+#### 📋 Usuarios
+- Lista todos os usuarios rexistrados na plataforma
+- Fai clic nun usuario para ver o seu perfil completo
+- Desde o perfil dun usuario podes iniciar un chat con el/ela
 
-## 📝 Scripts Disponibles
+#### 👤 O meu perfil
+- Visualiza e edita o teu perfil
+- Fai clic en "✏️ Editar perfil" para:
+  - Modificar a túa descrición
+  - Engadir ou eliminar asignaturas
+  - Subir apuntes (texto ou arquivos)
+- Non esquezas gardar os cambios!
+
+#### 💬 Conversas
+- Mostra todas as túas conversas activas
+- Fai clic nunha conversa para seguir chateando
+
+### 3. Funcionalidades Específicas
+
+#### Engadir Asignaturas
+1. Vai a "O meu perfil" → "Editar perfil"
+2. Escribe o nome da asignatura no campo
+3. Fai clic en "+ Engadir"
+4. Podes eliminar asignaturas facendo clic no × de cada unha
+
+#### Subir Apuntes
+1. Vai a "O meu perfil" → "Editar perfil"
+2. Escribe o nome do apunte
+3. Elixe entre:
+   - **+ Texto**: Escribe directamente o contido
+   - **📎 Arquivo**: Sube un arquivo desde o teu ordenador (PDF, TXT, DOC, etc.)
+4. Os apuntes de texto móstranse nun modal ao facer clic en "Ver"
+5. Os arquivos descárganse ao facer clic en "Descargar"
+
+#### Chatear con Usuarios
+1. Vai a "Usuarios" e selecciona un usuario
+2. Fai clic en "💬 Chatear" no seu perfil
+3. Escribe mensaxes e pulsa "Enviar" ou Enter
+4. As túas mensaxes aparecen á dereita en azul
+5. As mensaxes do outro usuario aparecen á esquerda en branco
+
+## Tecnoloxías Utilizadas
 
 ### Backend
-- `npm run dev` - Iniciar servidor de desarrollo con hot reload
-- `npm run build` - Compilar TypeScript a JavaScript
-- `npm start` - Iniciar servidor de producción
-
-**Gestión de Base de Datos:**
-```bash
-# Ver tablas de la base de datos
-psql -U postgres -d xuntos -c "\dt"
-
-# Ver datos de una tabla
-psql -U postgres -d xuntos -c "SELECT * FROM users;"
-
-# Resetear base de datos
-psql -U postgres -c "DROP DATABASE xuntos;"
-# Luego reinicia el backend para recrearla
-```
+- **Node.js**: Plataforma de execución
+- **Express**: Framework web
+- **CORS**: Middleware para permitir peticións cross-origin
 
 ### Frontend
-- `npm run dev` - Iniciar Next.js en modo desarrollo
-- `npm run build` - Crear build de producción
-- `npm start` - Iniciar servidor de producción
-- `npm run lint` - Ejecutar linter
+- **HTML5**: Estrutura da aplicación
+- **CSS3**: Estilos modernos e responsive
+- **JavaScript Puro (ES6+)**: Toda a lóxica sen frameworks
+- **Fetch API**: Comunicación asíncrona co servidor
 
-## 🧪 Testing
+## Estrutura de Arquivos
 
-```bash
-# Backend
-cd backend
-npm test
-
-# Frontend
-cd frontend
-npm test
+```
+Proyecto/
+├── cliente/                # Aplicación frontend
+│   ├── index.html         # Estrutura principal
+│   ├── styles.css         # Estilos e deseño
+│   └── app.js             # Lóxica do cliente e API calls
+├── servidor/              # Aplicación backend
+│   ├── server.js          # Servidor Express e API REST
+│   ├── datos.js           # Datos iniciais de demostración
+│   └── package.json       # Dependencias do servidor
+├── package.json           # Scripts principais
+├── iniciar.sh             # Script de inicio automático
+├── README.md              # Esta documentación
+└── CLAUDE.md              # Guía para desenvolvemento
 ```
 
-## 📚 API Endpoints
+## API REST
 
-### Autenticación
-- `POST /api/auth/register` - Registro de usuario
-- `POST /api/auth/login` - Inicio de sesión
-- `GET /api/auth/me` - Obtener usuario actual
+O servidor expón os seguintes endpoints:
 
 ### Usuarios
-- `GET /api/users` - Listar usuarios (con filtros)
-- `GET /api/users/:id` - Obtener perfil de usuario
-- `PUT /api/users/:id` - Actualizar perfil
-- `GET /api/users/:id/notes` - Obtener apuntes de un usuario
-
-### Asignaturas
-- `GET /api/subjects` - Listar asignaturas
-- `POST /api/subjects` - Crear asignatura (admin)
+- `GET /api/usuarios` - Obter todos os usuarios
+- `GET /api/usuarios/:id` - Obter un usuario por ID
+- `POST /api/usuarios` - Crear un novo usuario
+- `PUT /api/usuarios/:id` - Actualizar un usuario
 
 ### Apuntes
-- `POST /api/notes` - Subir apunte
-- `GET /api/notes/:id` - Obtener apunte
-- `DELETE /api/notes/:id` - Eliminar apunte
-- `GET /api/notes/:id/download` - Descargar archivo
+- `GET /api/usuarios/:id/apuntes` - Obter apuntes dun usuario
+- `POST /api/usuarios/:id/apuntes` - Engadir un apunte
+- `DELETE /api/usuarios/:userId/apuntes/:apunteId` - Eliminar un apunte
 
-### Chat
-- `GET /api/conversations` - Listar conversaciones del usuario
-- `GET /api/conversations/:id/messages` - Obtener mensajes
-- WebSocket events: `send_message`, `message_received`, `typing`
+### Mensaxes
+- `GET /api/mensaxes` - Obter todas as mensaxes
+- `GET /api/mensaxes/:usuario1Id/:usuario2Id` - Obter mensaxes entre dous usuarios
+- `GET /api/usuarios/:id/conversas` - Obter conversas dun usuario
+- `POST /api/mensaxes` - Enviar unha nova mensaxe
 
-### Valoraciones
-- `POST /api/reviews` - Crear valoración
-- `GET /api/users/:id/reviews` - Obtener valoraciones de un tutor
+## Navegadores Soportados
 
-## 🚀 Despliegue
+✅ Chrome/Edge (versión recente)
+✅ Firefox (versión recente)
+✅ Safari (versión recente)
+✅ Opera (versión recente)
 
-### Backend
-Se puede desplegar en:
-- Railway
-- Render
-- Heroku
-- VPS con PM2
+## Limitacións Actuais
 
-### Frontend
-Se puede desplegar en:
-- Vercel (recomendado para Next.js)
-- Netlify
-- AWS Amplify
+⚠️ **Importante**:
+- Os datos gárdanse en memoria do servidor (pérdense ao reiniciar)
+- Non hai autenticación real nin seguridade
+- Non hai validación exhaustiva de datos
+- Para produción, sería necesario unha base de datos real (MongoDB, PostgreSQL, etc.)
 
-### Base de Datos
-- PostgreSQL en Railway, Supabase o Render
+## Melloras Futuras (Ideas)
 
-## 🤝 Contribución
+- 💾 Base de datos persistente (MongoDB/PostgreSQL)
+- 🔐 Sistema de autenticación con JWT
+- 🔒 Seguridade e validación de datos
+- 🖼️ Subir imaxes de perfil
+- 📱 Notificacións push de mensaxes novas
+- 🔍 Buscador de usuarios e asignaturas
+- 🏷️ Etiquetas e filtros para asignaturas
+- ⭐ Sistema de valoracións de apuntes
+- 📊 Panel de estatísticas
+- 🌐 Despregue en produción (Heroku, Vercel, etc.)
 
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -m 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
+## Solución de Problemas
 
-## 📄 Licencia
+### O servidor non inicia
+- Verifica que tes Node.js instalado: `node --version`
+- Asegúrate de que o porto 3000 non está en uso
+- Instala as dependencias: `npm run install-servidor`
 
-Este proyecto está bajo la Licencia MIT.
+### Erro de conexión no cliente
+- Verifica que o servidor está en execución
+- Comproba a consola do navegador para erros
+- Asegúrate de que o servidor está en http://localhost:3000
 
-## 👥 Autores
+### Non aparecen os datos iniciais
+- Reinicia o servidor
+- Verifica que o arquivo `servidor/datos.js` existe
+- Comproba a consola do servidor para erros
 
-- Tu Nombre - Desarrollo inicial
+## Licenza
 
-## 🙏 Agradecimientos
+Este proxecto é software libre de uso educativo.
 
-- A todos los estudiantes que inspiraron este proyecto
-- Comunidad de código abierto
+---
+
+Desenvolvido con ❤️ para a comunidade estudantil galega.
