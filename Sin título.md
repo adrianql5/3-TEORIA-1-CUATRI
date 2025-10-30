@@ -11,12 +11,19 @@
 - Login seguro con JWT (JSON Web Tokens)
 - Contraseñas hasheadas con bcrypt
 - Sesión persistente (token válido 7 días)
+- Soporte para múltiples sesións simultáneas
 
 ✅ **Xestión de Perfís**
 - Crear e editar o teu perfil persoal
+- **Foto de perfil personalizada** (sube imaxes ata 2MB)
 - Descrición sobre ti e os teus estudos
 - Lista de asignaturas que dominas
 - Subir apuntes (texto ou arquivos)
+
+✅ **Interface Personalizable**
+- **Modo claro e modo oscuro** con toggle
+- Preferencias gardadas automaticamente
+- Deseño responsive e moderno
 
 ✅ **Explorar Outros Usuarios**
 - Ver lista de todos os usuarios rexistrados
@@ -96,6 +103,7 @@ npm install
 
 ### 4. Inicializar a Base de Datos
 
+**Se é a primeira vez:**
 ```bash
 cd servidor
 npm run init-db
@@ -105,7 +113,13 @@ Este comando:
 - Crea o usuario `xuntos_user` en PostgreSQL
 - Crea a base de datos `xuntos_db`
 - Xera todas as tablas (usuarios, asignaturas, apuntes, mensaxes)
-- Insire os datos de demostración (5 usuarios con perfís completos)
+- Insire os datos de demostración (5 usuarios con perfís e fotos)
+
+**Se xa tes a base de datos e queres engadir soporte para fotos:**
+```bash
+cd servidor
+npm run migrate
+```
 
 Se tes outra contraseña de postgres:
 ```bash
@@ -152,6 +166,12 @@ Deberías ver:
 
 Abre o navegador en: **http://localhost:3000**
 
+**Para usar múltiples sesións na mesma máquina:**
+- Abre varias ventás ou pestanas do navegador
+- Cada unha pode iniciar sesión con un usuario diferente
+- As sesións son independentes grazas aos JWT
+- Proba iniciar sesión como `maria@xuntos.gal` nunha ventá e como `carlos@xuntos.gal` noutra para chatear entre eles!
+
 ## 🔐 Como Usar
 
 ### Primeira Vez
@@ -174,9 +194,15 @@ Abre o navegador en: **http://localhost:3000**
 
 #### 👤 O Meu Perfil
 - Fai clic en "O meu perfil" no menú
+- **Cambiar foto de perfil:** Fai clic en "📷 Cambiar foto" e selecciona unha imaxe
 - Edita a túa descrición e asignaturas
 - Engade apuntes (texto ou arquivos PDF/DOC)
 - Todos os cambios gárdanse na base de datos
+
+#### 🌙 Modo Claro/Oscuro
+- Fai clic no botón 🌙/☀️ na cabeceira
+- A túa preferencia gárdase automaticamente
+- Funciona en todas as vistas da aplicación
 
 #### 💬 Chatear
 - Desde o perfil dun usuario, fai clic en "💬 Chatear"
