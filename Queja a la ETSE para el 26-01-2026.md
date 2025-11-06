@@ -30,3 +30,12 @@ Atentamente,
 **Adrián Quiroga Linares**  
 Estudante de Grao en Enxeñaría Informática – ETSE  
 Universidade de Santiago de Compostela  
+
+
+# Recuento de mis horas de charlas
+**AWS:** 9.30-15.00 (5 horas y media)
+**DevFest**: miercoles por la tarde 4h, jueves por la mañana 2 h (con suerte me cuentan 10 horas totales)
+**HackatonEtse:** 8 horas
+**Altia:** 1hora y media
+
+**Total:** 25
