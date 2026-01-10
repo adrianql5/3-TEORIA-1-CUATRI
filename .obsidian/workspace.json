@@ -11,12 +11,14 @@
             "id": "a5254a397e538330",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IA/7. Aprendizaje en Redes Multicapa, Retropropagación.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "7. Aprendizaje en Redes Multicapa, Retropropagación"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -183,6 +185,7 @@
   },
   "active": "a5254a397e538330",
   "lastOpenFiles": [
+    "IA/7. Aprendizaje en Redes Multicapa, Retropropagación.pdf",
     "IA/6. Aprendizaje no Supervisado.pdf"
   ]
 }
